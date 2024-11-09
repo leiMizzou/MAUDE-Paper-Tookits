@@ -1,4 +1,4 @@
-# PubMed Articles Processor
+# Paper Info Completion
 
 A Python-based tool for fetching abstracts and full-text links of PubMed articles, enhancing your research workflow by automating data retrieval and management.
 
